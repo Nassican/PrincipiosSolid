@@ -11,3 +11,7 @@ Las entidades de software deben ser abiertas para la extensión, pero cerradas p
 ### Liskov Substitution Principle (LSP)
 
 Los objetos de una superclase deben ser reemplazables por objetos de una subclase sin alterar el comportamiento del programa.
+
+### Interface Segregation Principle (ISP)
+
+Las interfaces deben ser específicas y no deben tener métodos que no sean relevantes para los clientes que las utilizan.
