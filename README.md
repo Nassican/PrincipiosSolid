@@ -15,3 +15,7 @@ Los objetos de una superclase deben ser reemplazables por objetos de una subclas
 ### Interface Segregation Principle (ISP)
 
 Las interfaces deben ser específicas y no deben tener métodos que no sean relevantes para los clientes que las utilizan.
+
+### Dependency Inversion Principle (DIP)
+
+Los módulos de alto nivel no deben depender de los módulos de bajo nivel. Ambos deben depender de abstracciones.
