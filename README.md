@@ -19,3 +19,7 @@ Las interfaces deben ser específicas y no deben tener métodos que no sean rele
 ### Dependency Inversion Principle (DIP)
 
 Los módulos de alto nivel no deben depender de los módulos de bajo nivel. Ambos deben depender de abstracciones.
+
+### Principios de diseño de software
+
+Los principios de diseño de software son directivas para crear software que sea fácil de entender, modificar y mantener.
