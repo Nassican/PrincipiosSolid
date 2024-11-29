@@ -27,3 +27,7 @@ Los principios de diseño de software son directivas para crear software que sea
 ### Principios de diseño de código
 
 Los principios de diseño de código son directivas para crear código que sea fácil de entender, modificar y mantener.
+
+### Principios de diseño de arquitectura
+
+Los principios de diseño de arquitectura son directivas para crear arquitectura de software que sea fácil de entender, modificar y mantener.
