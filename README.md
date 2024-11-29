@@ -23,3 +23,7 @@ Los módulos de alto nivel no deben depender de los módulos de bajo nivel. Ambo
 ### Principios de diseño de software
 
 Los principios de diseño de software son directivas para crear software que sea fácil de entender, modificar y mantener.
+
+### Principios de diseño de código
+
+Los principios de diseño de código son directivas para crear código que sea fácil de entender, modificar y mantener.
