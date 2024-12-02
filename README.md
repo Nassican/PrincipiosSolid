@@ -31,3 +31,7 @@ Los principios de diseño de código son directivas para crear código que sea f
 ### Principios de diseño de arquitectura
 
 Los principios de diseño de arquitectura son directivas para crear arquitectura de software que sea fácil de entender, modificar y mantener.
+
+### Principios de diseño de base de datos
+
+Los principios de diseño de base de datos son directivas para crear base de datos que sean fáciles de entender, modificar y mantener.
