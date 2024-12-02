@@ -35,3 +35,7 @@ Los principios de diseño de arquitectura son directivas para crear arquitectura
 ### Principios de diseño de base de datos
 
 Los principios de diseño de base de datos son directivas para crear base de datos que sean fáciles de entender, modificar y mantener.
+
+### Principios de diseño de interfaz de usuario
+
+Los principios de diseño de interfaz de usuario son directivas para crear interfaces de usuario que sean fáciles de entender, modificar y mantener.
